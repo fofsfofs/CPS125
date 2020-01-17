@@ -1,1 +1,1 @@
-# CPS125
+# CPS125 Labs
