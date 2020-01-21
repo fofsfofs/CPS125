@@ -3,6 +3,11 @@
 int 
 main (void) 
 {
-	printf("This is my first C program. \n");
+	//a
+	//printf("This is my first C program. \n");
+	
+	//d
+	printf("This\nis\nmy\nfirst\nC\nprogram");
+	
 	return(0);		
 }
