@@ -13,4 +13,5 @@ main (void)
 	scanf("%lf", &sr);
 	c = 2 * acos(-1) * sqrt(((pow(lr, 2) + pow(sr, 2)) / 2));
 	printf("The circumference is: %lf", c);
+	return (0);
 }
