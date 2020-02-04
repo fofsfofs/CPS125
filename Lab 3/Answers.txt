@@ -1,0 +1,2 @@
+i. 3, 5, 8 are all integers, so the output will be an integer as well. If 3.0, 5.0 and 8.0 were used instead the correct output would be given.
+ii. The division operator divides the number before the "/" operator by the number after the "/" operator while the modulo operator computes the remainder of the number before the "%" operator divided by the number after the "%" operator
