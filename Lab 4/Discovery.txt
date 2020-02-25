@@ -1,0 +1,1 @@
+== is a comparison operator while = is a assignment operator. if(x=0) is always false because it sets the variable x equal to 0 then evalutes if(0) which is false.

@@ -1,0 +1,4 @@
+a) 1
+b) No () required as % is always computed first
+c) !(0 && 30 % 10 < 0 && 30 % 10 > 3)
+d) 0 || 30 % 10 < 0 || 30 % 10 > 3
