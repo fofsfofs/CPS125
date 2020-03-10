@@ -1,0 +1,2 @@
+i. Parameters are part of the declaration of the function while arguments are the actual values stored that get passed into the function
+ii. & represents a reference to a variable while a pointer is a variable that holds a memory address of another variable. Pointers can be reassigned while references must be assigned during initialization.
