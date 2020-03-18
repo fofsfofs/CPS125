@@ -1,0 +1,2 @@
+1. Loops make it easy to traverse each index and access each element of the array quickly and in an organized manner. Array[i] is a reference to a memory location that is i indices away from the start. Therefore i can be expressed as an offset and an offset of 0 would point to the first address.
+2. A normal variable will only allocate enough memory to hold that single variable whereas an array declared will allocate a larger portion of memory based on the size chosed during declaration.
