@@ -1,0 +1,2 @@
+1. The size needs to be known in order to know when to stop the for loop when using one to iterate over the elements.
+2. Indicates the end of a string, it is stored as a single character. Strings do not need to occupy the whole array spcified so '\0' indicates the ending.
