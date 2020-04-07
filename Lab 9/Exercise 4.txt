@@ -1,0 +1,4 @@
+1108 1112 1162
+Structure address is 1004 and the structure is 104 bytes making the address of m.num is 1108
+m.num is 4 bytes long which makes the address of m.mess1 is 1112 
+Address of m.mess2 is 1162
